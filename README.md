@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://subhrangshumajumder.io)
 <h1 align="center">Hi 👋, I'm Subhrangshu Majumder</h1>
-<h3 align="center">A passionate frontend developer . You can checkout my projects,and don't forget to give a 🌟 if you like them.</h3>
+<h3 align="center">An aspiiring softare developer . You can checkout my projects,and don't forget to give a 🌟 if you like them.</h3>
 
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/subhrangshu majumder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhrangshu majumder" height="30" width="40" /></a>
+<a href="https://https://www.linkedin.com/in/subhrangshu-majumder-0646911a5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhrangshu majumder" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
