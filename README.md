@@ -8,11 +8,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhrangshu9&label=Profile%20views&color=0e75b6&style=flat" alt="subhrangshu9" /> </p>
 
-- 🔭 I’m currently working on **Whatsapp clone android app**
+- 🔭 I’m currently working on **Amazon clone site**
 
 - 🌱 I’m currently practicing **DSA on Leetcode**
 
-- 💬 Ask me about **Android, MEARN**
+- 💬 Ask me about **Android, CSS, HTML, JS**
 
 - 📫 How to reach me **subhrangshumajumder.9@gmail.com**
 
