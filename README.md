@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://subhrangshumajumder.io)
 <h1 align="center">Hi 👋, I'm Subhrangshu Majumder</h1>
-<h3 align="center">An aspiiring software developer . You can checkout my projects,and don't forget to give a 🌟 if you like them.</h3>
+<h3 align="center">An aspiring software developer . You can checkout my projects,and don't forget to give a 🌟 if you like them.</h3>
 
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
