@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently practicing **DSA on Leetcode**
 
-- 💬 Ask me about **Android, CSS, HTML, JS**
+- 💬 Ask me about **Android, CSS, HTML, JS, DSA**
 
 - 📫 How to reach me **subhrangshumajumder.9@gmail.com** 
 
@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/subhrangshu-majumder-0646911a5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhrangshu majumder" height="30" width="50" /></a>
 
-<a href="https://t.me/Subhrangshu9" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="subhrangshu majumder" height="40" width="110" /></a>
+<a href="https://t.me/Subhrangshu9" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="subhrangshu majumder" height="40" width="120" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
