@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhrangshu9&label=Profile%20views&color=0e75b6&style=flat" alt="subhrangshu9" /> </p>
 
-- 🔭 I’m currently working on **Amazon clone site**
+- 🔭 I’m currently working on **Zoom clone site**
 
 - 🌱 I’m currently practicing **DSA on Leetcode**
 
